@@ -22,7 +22,9 @@ def teach_yourself(anything):
 teach_yourself(coding)
 ```
 
-請先行閱讀[T-appendix.jupyter-installation-and-setup](T-appendix.jupyter-installation-and-setup.ipynb) 以便在本地安裝[Jupyterlab](https://github.com/jupyterlab/jupyterlab ) 而後就能用更好的體驗閱讀本書。
+本書可以搭配 google research colab 直接線上執行, 舉例
+[Part.1.E.1.entrance（**入口**）](Part.1.E.1.entrance.ipynb)
+的 study branch 可以直接使用 <https://colab.research.google.com/github/laneser/the-craft-of-selfteaching/blob/study/Part.1.E.1.entrance.ipynb>
 
 有興趣幫忙的朋友，請先行閱讀 [如何使用 Pull Request 為這本書校對](02.proof-of-work.ipynb)。
 
