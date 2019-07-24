@@ -35,7 +35,7 @@ teach_yourself(coding)
 
 ### 目錄
 
-> - [01.preface（**前言**）](01.preface.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laneser/the-craft-of-selfteaching/blob/study/01.preface.ipynb)
+> - [01.preface（**前言**）](01.preface.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laneser/the-craft-of-selfteaching/blob/study/01.preface.ipynb){:target="_blank"}
 > - [02.proof-of-work（**如何證明你真的讀過這本書？**）](02.proof-of-work.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laneser/the-craft-of-selfteaching/blob/study/02.proof-of-work.ipynb)
 > - [Part.1.A.better.teachyourself（**為什麼一定要掌握自學能力？**）](Part.1.A.better.teachyourself.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laneser/the-craft-of-selfteaching/blob/study/Part.1.A.better.teachyourself.ipynb)
 > - [Part.1.B.why.start.from.learning.coding（**為什麼把編程當作自學的入口？**）](Part.1.B.why.start.from.learning.coding.ipynb)
